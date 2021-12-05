@@ -1,4 +1,15 @@
-### Hi there 👋
+### Oh hey there...
+
+I am an IT professional that also likes to dabble in a bit of programming, as one should. Mainly enjoy programming in python and TypeScript
+
+Currently looking to transition my career from support to cybersecurity.
+
+## Current Projects
+https://github.com/IzyIsaac/WooperBot
+Discord bot I am working on for a firends server. Mainly created it to have an easy to add custom commands to the server without dealing with weird tag languages or adding 5000 other bots. Would be great boilerplate for quickly getting a bot rolling using sapphire + mongodb/mongoose. Very much WIP
+
+https://idk.github.io
+Lil blog where I host writeups and tutorials for CTFs, or anything else I am interested in
 
 <!--
 **IzyIsaac/izyisaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
