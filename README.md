@@ -8,7 +8,7 @@ Currently looking to transition my career from support to cybersecurity.
 https://github.com/IzyIsaac/WooperBot
 Discord bot I am working on for a firends server. Mainly created it to have an easy to add custom commands to the server without dealing with weird tag languages or adding 5000 other bots. Would be great boilerplate for quickly getting a bot rolling using sapphire + mongodb/mongoose. Very much WIP
 
-https://idk.github.io
+https://izyisaac.github.io
 Lil blog where I host writeups and tutorials for CTFs, or anything else I am interested in
 
 <!--
