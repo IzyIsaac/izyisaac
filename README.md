@@ -1,15 +1,13 @@
 ### Oh hey there...
 
-I am an IT professional that also likes to dabble in a bit of programming, as one should. Mainly enjoy programming in python and TypeScript
+I am an IT professional that also likes to dabble in a bit of programming, as one should. Mainly enjoy programming in python and automating things with PowerShell
 
-Currently looking to transition my career from support to cybersecurity.
+I have many abandoned repositories. None of them contain completed projects :)
 
-## Current Projects
-https://github.com/IzyIsaac/WooperBot
-Discord bot I am working on for a firends server. Mainly created it to have an easy to add custom commands to the server without dealing with weird tag languages or adding 5000 other bots. Would be great boilerplate for quickly getting a bot rolling using sapphire + mongodb/mongoose. Very much WIP
+Check out PSTools for a collection of useful PowerShell snippets/scripts.
 
 https://izyisaac.github.io
-Lil blog where I host writeups and tutorials for CTFs, or anything else I am interested in
+Lil blog where I want to post writeups and tutorials for CTFs, sys admin things, or anything else I am interested in (It's dead af because I'm lazy)
 
 <!--
 **IzyIsaac/izyisaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
